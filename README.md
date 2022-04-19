@@ -1,18 +1,16 @@
-![logo](https://github.com/gitqodeless/gitqodeless/blob/main/logo1.png?raw=true)
+# myapp
 
-# Desafio_01 -  HELLO WORLD:
+A new Flutter project.
 
-R01. "Hello, Flutter" - Esse desafio consiste em trazer na tela os dizeres "Hello, Flutter", em qualquer lugar da tela do emulador :D
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-ANTES DE INICIAR O DESAFIO CLIQUE EM FORK, ISSO IRÁ DUPLICAR ESSE REPOSITÓRIO PARA O SEU GITHUB, EM SEGUIDA CLONE-O EM SUA MÁQUINA E DIVIRTA-SE!
+A few resources to get you started if this is your first Flutter project:
 
-O QUE VOCÊ VAI PRECISAR PARA COMPLETAR ESSE DESAFIO?
-VISUAL STUDIO COMMUNITY / VISUAL STUDIO CODE; GIT EXTENSIONS; \
-DART \
-FLUTTER \
-GIT BASH; \
-NOTEPAD++; \
-FORÇA DE VONTADE;
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-[<sub>qodeless.io<sub>](https://qodeless.io)
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
